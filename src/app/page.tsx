@@ -74,7 +74,7 @@ export default function LandingPage() {
           href: "#loadout",
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bde77U5MUYBDTRPXFWZy0thE4g/cinematic-shot-of-a-model-in-tactical-ur-1774823236509-f3e84e1d.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bde77U5MUYBDTRPXFWZy0thE4g/cinematic-shot-of-a-model-in-tactical-ur-1774823236509-f3e84e1d.png?_wi=1"
       mediaAnimation="blur-reveal"
       avatars={[
         {
@@ -165,7 +165,7 @@ export default function LandingPage() {
           id: "p1",
           name: "SHADOW HOODIE V1",
           price: "$120.00",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bde77U5MUYBDTRPXFWZy0thE4g/premium-streetwear-hoodie-black-tactical-1774823236175-ddeb7004.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bde77U5MUYBDTRPXFWZy0thE4g/premium-streetwear-hoodie-black-tactical-1774823236175-ddeb7004.png?_wi=1",
         },
         {
           id: "p2",
@@ -183,7 +183,7 @@ export default function LandingPage() {
           id: "p4",
           name: "PHANTOM TEE",
           price: "$55.00",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bde77U5MUYBDTRPXFWZy0thE4g/premium-streetwear-hoodie-black-tactical-1774823236175-ddeb7004.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bde77U5MUYBDTRPXFWZy0thE4g/premium-streetwear-hoodie-black-tactical-1774823236175-ddeb7004.png?_wi=2",
         },
       ]}
       title="CURRENT LOADOUT"
@@ -202,7 +202,7 @@ export default function LandingPage() {
           name: "ALEX R.",
           role: "OPERATOR",
           testimonial: "The build quality is insane. Feels like military grade.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bde77U5MUYBDTRPXFWZy0thE4g/portrait-of-a-confident-urban-customer-d-1774823236485-ed284467.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bde77U5MUYBDTRPXFWZy0thE4g/portrait-of-a-confident-urban-customer-d-1774823236485-ed284467.png?_wi=1",
         },
         {
           id: "t2",
@@ -230,7 +230,7 @@ export default function LandingPage() {
           name: "ELENA D.",
           role: "NIGHT OPS",
           testimonial: "Unmatched durability for the urban landscape.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bde77U5MUYBDTRPXFWZy0thE4g/portrait-of-a-confident-urban-customer-d-1774823236485-ed284467.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bde77U5MUYBDTRPXFWZy0thE4g/portrait-of-a-confident-urban-customer-d-1774823236485-ed284467.png?_wi=2",
         },
       ]}
       title="FIELD REPORTS"
@@ -249,7 +249,7 @@ export default function LandingPage() {
       description="Join the inner circle. Stay updated on all future drops."
       mediaAnimation="slide-up"
       buttonText="ENLIST"
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bde77U5MUYBDTRPXFWZy0thE4g/cinematic-shot-of-a-model-in-tactical-ur-1774823236509-f3e84e1d.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bde77U5MUYBDTRPXFWZy0thE4g/cinematic-shot-of-a-model-in-tactical-ur-1774823236509-f3e84e1d.png?_wi=2"
     />
   </div>
 
